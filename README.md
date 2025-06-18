@@ -21,9 +21,10 @@ Through real-world decentralized applications (dApps), strategic consulting, and
 - Git • GitHub • IPFS • MetaMask • Remix IDE
 
 **Certifications**  
-- ✅ Certified Smart Contract Developer (101 Blockchains)  
+- ✅ Certified Smart Contract Developer (Blockchain Council)  
 - ✅ Certified Solidity Developer (Blockchain Council)  
-- ✅ Certified Prompt Engineer (OpenAI)
+- ✅ Certified Prompt Engineer (Blockchain Council)
+
 
 ---
 
